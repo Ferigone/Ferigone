@@ -6,7 +6,7 @@ JavaScript Fullstack Developer
 
 *   🌍  I'm based in Poland
 *   ✉️  You can contact me at [michal.duda2k@gmail.com](mailto:michal.duda2k@gmail.com)
-*   🧠  I'm learning Next.js, Ember.js and Firebase
+*   🧠  I'm learning Firebase and tensorflow
 
 ### Skills
 <p align="left">
